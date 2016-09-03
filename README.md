@@ -1,3 +1,3 @@
 # Codeground
 
-easy : 숫자골라내기
+easy_1 : 숫자골라내기
