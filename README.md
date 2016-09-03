@@ -1,3 +1,3 @@
 # Codeground
 
-숫자골라내기
+easy : 숫자골라내기
